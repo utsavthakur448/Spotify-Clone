@@ -10,7 +10,7 @@ Image of Spotify Clone:
 
 
 
-Contribution Guidelines:
+Contribution Guidelines:  
 We welcome contributions from the community to improve and enhance the SpotifyClone project. If you're interested in contributing, please follow these guidelines:
 
 - Fork the repository and create a new branch for your feature or bug fix.
