@@ -10,7 +10,11 @@ Technologies Used
 1. Clone the repository:
    ```bash
    git clone https://github.com/utsavthakur448/Spotify-Clone.git
-2. Open index.html in your browser.
+2. Open index.html in your browser.  
+
+  
+Click Here to See:    
+https://utsavthakur448.github.io/Spotify-Clone/  
   
 Image of Spotify Clone:
   
