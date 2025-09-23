@@ -6,8 +6,11 @@ Note: This is not a Responsive web-App its only perfectly open on laptop screen.
 Technologies Used
 - Frontend: HTML, CSS, JavaScript
 
-How to Run:  
-To run this project on your local system first download the zip file of project or use command git clone to clone the project. After downloaded extract that file and run html file.  
+## 📚 How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/utsavthakur448/responsive-camera-site.git
+2. Open index.html in your browser.
   
 Image of Spotify Clone:
   
