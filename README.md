@@ -11,12 +11,13 @@ Technologies Used
    ```bash
    git clone https://github.com/utsavthakur448/Spotify-Clone.git
 2. Open index.html in your browser.  
+  
+    
+## 🚀 Click Here to Demo:   
+- https://utsavthakur448.github.io/Spotify-Clone/     
+  
 
-  
-Click Here to See:    
-https://utsavthakur448.github.io/Spotify-Clone/  
-  
-Image of Spotify Clone:
+Preview of Spotify Clone:
   
 <img width="1919" height="915" alt="Screenshot 2025-09-23 122705" src="https://github.com/user-attachments/assets/6b26588e-5652-42a6-8b18-ba4786a3f661" />  
   
