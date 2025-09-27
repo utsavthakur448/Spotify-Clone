@@ -24,12 +24,5 @@ Preview of Spotify Clone:
   
 <br />  
 Contribution Guidelines:<br />   
-We welcome contributions from the community to improve and enhance the SpotifyClone project. If you're interested in contributing, please follow these guidelines:
+We welcome contributions from the community to improve and enhance the SpotifyClone project. If you're interested in contributing.
 
-- Fork the repository and create a new branch for your feature or bug fix.
-- Ensure your code follows the existing coding style and conventions.
-- Write clear and concise commit messages.
-- Test your changes thoroughly.
-- Submit a pull request detailing the changes you've made and why they are necessary.
-
-Thank you for your interest in the SpotifyClone project! If you have any questions or feedback, please don't hesitate to reach out to us. Happy coding!
