@@ -15,7 +15,7 @@ Technologies Used
   
   
 ## 🚀 Click Here to Demo:<br/>
-- https://utsavthakur448.github.io/todo-app/
+- https://utsavthakur448.github.io/Spotify-Clone/
 <br/>
 
 
