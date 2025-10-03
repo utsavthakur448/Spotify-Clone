@@ -13,9 +13,7 @@ Technologies Used
    git clone https://github.com/utsavthakur448/Spotify-Clone.git
 2. Open index.html in your browser.  
   
-    
-## 🚀 Click Here to Demo:   
-- https://utsavthakur448.github.io/Spotify-Clone/     
+         
 <br />
 
 Preview of Spotify Clone:
