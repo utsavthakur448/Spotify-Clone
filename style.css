@@ -357,6 +357,7 @@ h2:hover{
     border-radius: 0.5rem;
     margin-top: 0;
     background: transparent;
+    position: relative;
 }
 .card:hover{
     background-color: #1f1f1f;
@@ -369,6 +370,7 @@ h2:hover{
     /* padding-left: 0; */
     scroll-behavior: smooth;
     transition: transform 0.1s ease-in-out;
+    position: relative;
 }
 .card-img{
     min-width: 110px;
@@ -423,22 +425,22 @@ h2:hover{
     z-index: 30;
 }
 .right-btn{
-    position: absolute !important;
+    position: absolute;
     border: none;
     width: 28px;
     height: 28px;
     top: 48%;
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     cursor: pointer;
     background-color: #2d2c2c;
     border-radius: 50px;
     /* left: 65rem; */
-    right: 1.5rem !important;
-    margin-top: -20px !important;
+    right: 1.5rem;
+    margin-top: -20px;
     opacity: 0;
-    z-index: 30 !important;
+    z-index: 30;
 }
 .carousel-wrapper:hover .left-btn,
 .carousel-wrapper:hover .right-btn,
@@ -677,6 +679,3 @@ h2:hover{
 .progress-bar1::-webkit-slider-runnable-track:hover {
     background-color: #1bd760;
 }
-
-
-
