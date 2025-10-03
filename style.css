@@ -407,23 +407,23 @@ h2:hover{
     /* padding: 0 2.5rem; */
 }
 .left-btn{
-    position: absolute !important;
+    position: absolute;
     border: none;
-    width: 28px !important;
-    height: 28px !important;
-    top: 48% !important;
-    transform: translateY(-50%) !important;
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
+    width: 28px;
+    height: 28px;
+    top: 48%;
+    transform: translateY(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
     cursor: pointer;
     background-color: #2d2c2c;
     border-radius: 50px;
-    left: 1.5rem !important;
+    left: 1.5rem;
     /* margin-top: -20px; */
     opacity: 0;
     display: none;
-    z-index: 30 !important;
+    z-index: 30;
 }
 .right-btn{
     position: absolute !important;
