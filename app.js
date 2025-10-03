@@ -8,7 +8,7 @@ document.querySelectorAll(".carousel-wrapper").forEach(wrapper => {
     const length = images.length;
 
     const updateSliderPosition = () => {
-        slider.style.transform = `translateX(-${(counter - 1) * 75}px)`;
+        slider.style.transform = `translateX(-${(counter - 1) * 120}px)`;
         toggleButtons(); // Call to update button visibility
     };
     const toggleButtons = () => {
@@ -48,5 +48,6 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 });
+
 
 
