@@ -357,7 +357,6 @@ h2:hover{
     border-radius: 0.5rem;
     margin-top: 0;
     background: transparent;
-    position: relative;
 }
 .card:hover{
     background-color: #1f1f1f;
@@ -370,7 +369,6 @@ h2:hover{
     /* padding-left: 0; */
     scroll-behavior: smooth;
     transition: transform 0.1s ease-in-out;
-    position: relative;
 }
 .card-img{
     min-width: 110px;
