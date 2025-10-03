@@ -357,7 +357,6 @@ h2:hover{
     border-radius: 0.5rem;
     margin-top: 0;
     background: transparent;
-    position: relative;
 }
 .card:hover{
     background-color: #1f1f1f;
@@ -679,4 +678,5 @@ h2:hover{
 .progress-bar1::-webkit-slider-runnable-track:hover {
     background-color: #1bd760;
 }
+
 
