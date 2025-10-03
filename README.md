@@ -15,6 +15,9 @@ Technologies Used
   
          
 <br />
+🚀 Click Here to Demo:
+
+- https//utsavthakur448.github.io/Spotify-Clone/
 
 Preview of Spotify Clone:
   
