@@ -299,21 +299,46 @@ body{
 .main-content.is-scrolling {
     scrollbar-color: rgba(255, 255, 255, 0.3) transparent;
 }
-h2{
+/* h2{
     display: inline-block;
     margin-left: 38px;
     margin-top: 20px;
     cursor: pointer;
-}
-.show-all, .show-all2, .show-all3, .show-all4, .show-all5 {
+} */
+/* .show-all, .show-all2, .show-all3, .show-all4, .show-all5 {
     font-size: 13px !important;
     margin-left: 0 !important;  
     margin-right: 2.5rem !important; 
     opacity: 0.8 !important;
     cursor: pointer;
     float: right;
+} */
+/* h2:hover{
+    text-decoration: underline;
+} */
+.card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
-h2:hover{
+
+.card-header h2 {
+    /* font-size: 1.8rem;
+    color: #fff; */
+    margin-left: 38px;
+    cursor: pointer;
+}
+.card-header span{
+    font-size: 13px;
+    margin-left: 0;
+    margin-right: 2.5rem;
+    opacity: 0.8;
+    cursor: pointer;
+}
+.card-header h2:hover{
+ text-decoration: underline;
+}
+.card-hover span:hover{
     text-decoration: underline;
 }
 .II-chart, .III-chart, .IV-chart, .V-chart{
@@ -327,6 +352,7 @@ h2:hover{
     border-radius: 0.5rem;
     margin-top: 0;
     background: transparent;
+    position: relative;
 }
 .card:hover{
     background-color: #1f1f1f;
