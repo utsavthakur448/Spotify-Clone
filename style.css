@@ -342,7 +342,6 @@ h2{
     opacity: 0.8 !important;
     cursor: pointer;
     float: right;      /* float right so it aligns to the right of the current row */
-    clear: none;
 }
 h2:hover{
     text-decoration: underline;
@@ -680,3 +679,4 @@ h2:hover{
 .progress-bar1::-webkit-slider-runnable-track:hover {
     background-color: #1bd760;
 }
+
