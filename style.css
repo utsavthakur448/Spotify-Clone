@@ -98,8 +98,41 @@ body{
     font-size: larger;
     cursor: pointer;
 }
+.shortcut {
+    display: flex;
+    gap: 0.4rem;           
+    margin-left: rem;     
+    margin-right: 7rem;
+}
+.shortcut span {
+    color: white;
+    border: 0.5px solid white;
+    padding: 4px 6px;
+    border-radius: 6px;
+    opacity: 0;               
+    transition: opacity 0.3s ease;
+    font-size: 0.8rem;
+}
+.search-box:hover .shortcut span {
+    opacity: 0.8;
+}
+.search-box button{
+    background: none;
+    color: white;
+    border: none;
+    font-size: 1.3rem;
+    opacity: 0.8;
+    padding-right: 0;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.search-box button:hover{
+    opacity: 1;
+    background-color: #2a2a2a;
+}
 .search-box .fa-window-restore{
-    font-size: larger;
+    font-size: 17px;
+    padding-right: 20px;
     cursor: pointer;
 }
 .search-box .fa-window-restore:hover{
